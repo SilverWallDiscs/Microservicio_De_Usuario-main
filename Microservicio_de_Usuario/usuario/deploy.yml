@@ -19,3 +19,4 @@ spec:
         image: 339712975277.dkr.ecr.us-east-1.amazonaws.com/gabogrobier:latest
         ports:
         - containerPort: 8080
+
